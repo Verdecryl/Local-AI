@@ -1,16 +1,1 @@
-[5p] Scripeți un script numit monitoring.sh care, la fiecare 10 secunde, adaugă la fișierul monitoring.log
-o linie nouă ce conține: load-ul sistemului pentru ultimul minut (man uptime), memoria utilizată în format
-human-readable, și procentul de spațiu liber pe disc.
-Liniile din fișierul log vor avea formatul: 1.77 15Gi 70%.
-a) [5p] Scrieți un script care citește o listă de hostname-uri dintr-un fișier numit /home/student/hosts, trimite
-4 pachete ICMP către hosturi și afișează pentru fiecare host mesajul HOST OK dacă trimiterea pachetelor a
-funcționat, HOST FAILED altfel. Fișierul /home/student/hosts va conține câte un host pe linie. Pentru testare,
-folosiți hosturile ocw.cs.pub.ro, badhost.org, google.com.
-b) [5p] Faceți modificările necesare astfel încât scripturile de la subpunctele anterioare să poată fi rulate de oriunde
-din sistem.
-c) [5p] Scrieți un script care primește ca argumente o listă de useri și afișează pentru fiecare user doar uid-ul și
-grupurile din care acesta face parte. Dacă unul din useri nu există, se va afișa pentru acesta User-ul ... nu
-există.
-
-
-da-mi comanda cu care fac taskul asta in linux, doar comanda fara comentarii multe si inutile
+HERE YOU HAVE TO WRITE THE REQUEST/QUESTION
