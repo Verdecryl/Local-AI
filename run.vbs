@@ -1,1 +1,1 @@
-CreateObject("Wscript.Shell").Run "C:\Users\Adrian\Desktop\USO-cheat\USO.bat",0,True
+CreateObject("Wscript.Shell").Run "PATH TO USO.bat",0,True
